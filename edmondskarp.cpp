@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#include "edmonds_karp.h"
+#include "edmondskarp.h"
 using namespace alg;
 int main(void)
 {
